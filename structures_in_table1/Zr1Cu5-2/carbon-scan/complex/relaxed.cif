@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       CCu15Zr3
+_chemical_formula_sum              "C1 Cu15 Zr3"
+_cell_length_a       4.8003
+_cell_length_b       4.8003
+_cell_length_c       35.2749
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.33515  0.32838  0.66007  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.54167  1.0000
+  Cu  Cu2       1.0  0.66667  0.33333  0.43056  1.0000
+  Cu  Cu3       1.0  0.33283  0.68944  0.64469  1.0000
+  Cu  Cu4       1.0  0.69550  0.32690  0.64377  1.0000
+  Cu  Cu5       1.0  0.33333  0.66667  0.52795  1.0000
+  Cu  Cu6       1.0  0.00000  0.00000  0.41684  1.0000
+  Cu  Cu7       1.0  0.16598  0.33196  0.47217  1.0000
+  Cu  Cu8       1.0  0.83265  0.66530  0.36105  1.0000
+  Cu  Cu9       1.0  0.49929  0.00101  0.58319  1.0000
+  Cu  Cu10      1.0  0.49790  0.49671  0.58317  1.0000
+  Cu  Cu11      1.0  0.16598  0.83402  0.47217  1.0000
+  Cu  Cu12      1.0  0.83265  0.16735  0.36105  1.0000
+  Cu  Cu13      1.0  0.66804  0.83402  0.47217  1.0000
+  Cu  Cu14      1.0  0.33470  0.16735  0.36105  1.0000
+  Cu  Cu15      1.0  0.00014  0.49805  0.58315  1.0000
+  Zr  Zr1       1.0  0.33333  0.66667  0.40278  1.0000
+  Zr  Zr2       1.0  0.98887  0.98523  0.62463  1.0000
+  Zr  Zr3       1.0  0.66667  0.33333  0.51389  1.0000

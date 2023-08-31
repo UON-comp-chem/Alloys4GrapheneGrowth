@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       CY2Cu10
+_chemical_formula_sum              "C1 Y2 Cu10"
+_cell_length_a       4.97103
+_cell_length_b       4.97103
+_cell_length_c       24.0864
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.49624  0.50312  0.67061  1.0000
+  Y   Y1        1.0  0.00000  0.00000  0.45833  1.0000
+  Y   Y2        1.0  0.99632  0.00294  0.65576  1.0000
+  Cu  Cu1       1.0  0.66667  0.33333  0.45833  1.0000
+  Cu  Cu2       1.0  0.33333  0.66667  0.45833  1.0000
+  Cu  Cu3       1.0  0.00000  0.50000  0.37500  1.0000
+  Cu  Cu4       1.0  0.50000  0.00000  0.37500  1.0000
+  Cu  Cu5       1.0  0.50000  0.50000  0.37500  1.0000
+  Cu  Cu6       1.0  0.67280  0.32113  0.62615  1.0000
+  Cu  Cu7       1.0  0.31930  0.68527  0.62608  1.0000
+  Cu  Cu8       1.0  0.99849  0.50051  0.54217  1.0000
+  Cu  Cu9       1.0  0.49795  0.00097  0.54188  1.0000
+  Cu  Cu10      1.0  0.49897  0.50180  0.54259  1.0000
